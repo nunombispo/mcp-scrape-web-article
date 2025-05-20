@@ -2,6 +2,8 @@
 
 A Python-based web scraping tool that uses Bright Data's MCP (Machine Control Protocol) to extract and process web articles. This project combines the power of Mistral AI's language model with Bright Data's web scraping capabilities to create an intelligent web scraping agent.
 
+If these scripts were useful to you, consider donating to support the Developer Service Blog: https://buy.stripe.com/bIYdTrggi5lZamkdQW
+
 ## Features
 
 - Interactive chat interface for web scraping tasks
