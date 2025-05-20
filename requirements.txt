@@ -1,0 +1,6 @@
+langchain-mistralai
+python-dotenv
+langchain-mcp-adapters
+langgraph
+
+#npm install @brightdata/mcp

@@ -1,0 +1,13 @@
+[project]
+name = "mcp-scrape-web-article"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-anthropic>=0.3.13",
+    "langchain-mcp-adapters>=0.1.0",
+    "langchain-mistralai>=0.2.10",
+    "langgraph>=0.4.5",
+    "python-dotenv>=1.1.0",
+]
